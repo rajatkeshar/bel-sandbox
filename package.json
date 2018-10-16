@@ -1,25 +1,26 @@
 {
-  "_from": "https://github.com/salinsunny2/bel-sandbox/tarball/master",
+  "_from": "git+https://rajatkesharwani@bitbucket.org/rajatkesharwani/bel-sandbox.git",
   "_id": "bel-sandbox@1.0.0",
   "_inBundle": false,
-  "_integrity": "sha512-ql4xpiVtdN0XVKLnyMgMCGm+PMdOFQRD2V+xW6RxnJQyUAht7hbbl7HflGmN8iGjplAJbEQGPOMIsYBWmg5XPA==",
+  "_integrity": "sha1-oPfVqevLAjk3NK59oPZqiQUkrr4=",
   "_location": "/bel-sandbox",
   "_phantomChildren": {},
   "_requested": {
-    "type": "remote",
-    "raw": "bel-sandbox@https://github.com/salinsunny2/bel-sandbox/tarball/master",
+    "type": "git",
+    "raw": "bel-sandbox@git+https://rajatkesharwani@bitbucket.org/rajatkesharwani/bel-sandbox.git",
     "name": "bel-sandbox",
     "escapedName": "bel-sandbox",
-    "rawSpec": "https://github.com/salinsunny2/bel-sandbox/tarball/master",
-    "saveSpec": "https://github.com/salinsunny2/bel-sandbox/tarball/master",
-    "fetchSpec": "https://github.com/salinsunny2/bel-sandbox/tarball/master"
+    "rawSpec": "git+https://rajatkesharwani@bitbucket.org/rajatkesharwani/bel-sandbox.git",
+    "saveSpec": "git+https://rajatkesharwani@bitbucket.org/rajatkesharwani/bel-sandbox.git",
+    "fetchSpec": "https://rajatkesharwani@bitbucket.org/rajatkesharwani/bel-sandbox.git",
+    "gitCommittish": "master"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://github.com/salinsunny2/bel-sandbox/tarball/master",
-  "_spec": "bel-sandbox@https://github.com/salinsunny2/bel-sandbox/tarball/master",
-  "_where": "/home/rajat/oodles/POC-sandbox",
+  "_resolved": "git+https://rajatkesharwani@bitbucket.org/rajatkesharwani/bel-sandbox.git#97178ddaebc18ea4c7ed55428ee35a739ac4ac10",
+  "_spec": "bel-sandbox@git+https://rajatkesharwani@bitbucket.org/rajatkesharwani/bel-sandbox.git",
+  "_where": "/home/rajat/belriumnode",
   "author": {
     "name": "Rajat Kesharwani",
     "email": "rajat.sunny2@gmail.com"

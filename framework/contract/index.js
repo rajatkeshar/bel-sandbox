@@ -1,1 +1,1 @@
-"use strict";app.setDefaultFee("10000000","XAS"),app.registerFee(1,"0");
+"use strict";app.setDefaultFee("10000000","BEL"),app.registerFee(1,"0");
